@@ -1,3 +1,24 @@
+<div align="center">
+<h2> Hi 👋, I'm Tixian Wang </h2>
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tixianw&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tixianw&count_private=true&theme=dark&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/tixianw/count.svg" />
+</p>
+
+<!--
+<p align="center">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+-->
+
+<!--
+
 ## Hi there 👋
 
 <!--
