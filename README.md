@@ -1,5 +1,6 @@
 <div align="center">
 <h2> Hi 👋, I'm Tixian Wang </h2>
+<h3 align="center">A passionate researcher and developer in the intersection of control, robotics, and learning</h3>
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tixianw&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
