@@ -4,7 +4,7 @@
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tixianw&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tixianw&count_private=true&theme=dark&layout=compact" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tixianw&count_private=false&theme=dark&layout=compact" />
 </p>
 
 <p align="center">
